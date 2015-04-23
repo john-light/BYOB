@@ -1,5 +1,5 @@
 # Summary
 
 * Introduction
-* Chapter 1: Bitcoin Mining
+* Chapter 1: Mining Bitcoin
 

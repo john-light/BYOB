@@ -1,5 +1,5 @@
 # Summary
 
-* [Cover](Chapter1.md)
+* [Chapter 1](Chapter1.md)
 * Acknowledgements
 

@@ -3,6 +3,7 @@
 * [Summary](README.md)
 * [Acknowledgements](acknowledgements.md)
 * [Disclaimer](disclaimer.md)
+* Quote
 * [Introduction](introduction.md)
 * [Chapter 1: Mining Bitcoin](chapter_1_mining_bitcoin.md)
 * Chapter 2: Storing, Receiving, and Sending Bitcoin

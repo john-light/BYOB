@@ -16,11 +16,6 @@ Since the rise in the price of bitcoin to over $1000 per BTC in November 2013, t
 
 
 
-
-
-
-
-
 [10]
 Bitcoin miners form the backbone of the bitcoin network and are integral to both the security of the blockchain and the value of bitcoin. As the hashing power securing the bitcoin blockchain increases, so too does the amount of value which can be stored in bitcoin. The bitcoin protocol, the blockchain, and the decentralized network of bitcoin miners work together to replace the banks and other centralized “trusted third-parties” which issue currency and process and secure electronic financial transactions in the legacy financial system.[11]  
 

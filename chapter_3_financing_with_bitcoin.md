@@ -12,7 +12,8 @@ To raise bitcoin for a project using Lighthouse, download the program from vinum
 
 After filling out the form, click “Next.” You will then be presented with these options:
  
-
+![hosting a lighthouse project](hostlighthouse.png "Hosted vs Decentralized Crowdfinancing")
+<i>Hosted vs Decentralized Crowdfinancing.  
 
 You can choose to either host your Lighthouse project on a centralized server, which makes it easier for people to find and interact with, or you can choose to go fully decentralized, where you distribute the project file to potential supporters yourself, collecting and importing returned pledge files manually.
 

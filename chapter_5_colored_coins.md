@@ -46,7 +46,7 @@ After the transaction has been confirmed by the bitcoin network, you will be abl
 
 You will then need to fund the newly created colored coin address to issue a new asset by sending bitcoin to the address. Do this by clicking “fund address” or by sending bitcoin directly to the bitcoin address/ QR code directly below the address selection menu. After the address has been funded, click “Issue coins.” You will then be presented with this form:  
 
- 
+ ![issuance form](coloredcoins5.png "Form to issue colored coins.")
 <i>Form to issue colored coins.  
  
 Enter the amount of coins you wish to issue for your asset e.g. if your asset it ounces of gold, enter how many ounces of gold the asset is backed by. Then click “Issue coins.” The software will ask you to enter the password for your colored coins address; enter your password then press “Submit.” Your newly issued colored coins will then be available in your Coinprism wallet.  

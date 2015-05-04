@@ -9,6 +9,6 @@
 * [Chapter 2: Storing, Receiving, and Sending Bitcoin](chapter_2_storing,_receiving,_and_sending_bitcoin.md)
 * [Chapter 3: Financing with Bitcoin](chapter_3_financing_with_bitcoin.md)
 * [Chapter 4: Notarizing Digital Files with Bitcoin](chapter_4_notarizing_digital_files_with_bitcoin.md)
-* Chapter 5: Colored Coins
+* [Chapter 5: Colored Coins](chapter_5_colored_coins.md)
 * Appendix A: Long-Term Bitcoin Storage
 

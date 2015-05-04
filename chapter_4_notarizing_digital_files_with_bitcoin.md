@@ -30,8 +30,12 @@ A service called “Proof of Existence,” one of the first of its kind, was cre
 
 To embed a file into the bitcoin blockchain using Proof of Existence, first drag and drop a file that you want to prove exists at a certain time, for example a signed contract, into the big box on the website home page. The document will be hashed client-side (not uploaded to the server), and you will then be presented with a bitcoin address which you need to pay a small amount of bitcoin (typically a few cents USD worth) to have the hash of the file permanently embedded in the bitcoin blockchain. After the block the transaction is included in is confirmed, you will forever have proof that at the time that the block with your file hash embedded in it was added to the bitcoin blockchain, the file that was used to produce the hash existed. You are essentially using math to replicate one of the important functions of a notary public: certifying the existence of a document at a certain time.
 
+![embedding hashes](proofofexistence2.png "Embedding a file hash in the blockchain.")  
 
+<i>Embedding a file hash in the blockchain.  
 
+[^26] Notary. (2015, February 10). Retrieved February 27, 2015, from https://en.wikipedia.org/wiki/Notary  
+[^27] http://proofofexistence.com/  
 
 
 

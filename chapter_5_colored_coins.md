@@ -28,7 +28,8 @@ The wallet will be created and encrypted client-side, so as long as you are conn
 
 To issue a colored coin asset, navigate to the “Addresses & Colors” tab and click “New color.” You will then be shown this form:  
  
-
+![colored address](coloredcoins2.png "Coloring an address.")  
+<i>Coloring an address.  
  
 Give the new “color” a name e.g. Gold Bar 1oz, choose what kind of address you're issuing it from (pick “Regular address” if you're not sure), then encrypt your new issuing address with a new password. You will then be shown this form: 
  

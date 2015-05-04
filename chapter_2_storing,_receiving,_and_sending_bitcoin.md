@@ -61,8 +61,6 @@ Once you have received bitcoin, you will be able to send bitcoin to another bitc
 If your bitcoin wallet supports the Openname protocol, you can just type in the recipient's Openname where you would normally put their bitcoin address, and the bitcoin will be sent to the address the recipient has added to their Openname profile (if they have added one).
 It's important to remember that it is very difficult – potentially impossible – for the sender of a bitcoin transaction to reverse a payment, so be sure to double-check that the receiving address and the amount being sent (including the fee) is correct. If the address is incorrect, the bitcoin that is sent to it could be lost forever.  
 
-<i>Instructions for sending a cold storage transaction with the Bitcoin Armory wallet can be found in Appendix B, and instructions for sending a multisignature transaction with the Bitcoin Armory wallet can be found in Appendix C.  
-
 [^12] Various Authors (2015, January 21). Technical background of version 1 Bitcoin addresses. Retrieved February 13, 2015, from https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses  
 [^13] http://en.bitcoinwiki.org/File:BitcoinAddress.png  
 [^14] https://electrum.org/  

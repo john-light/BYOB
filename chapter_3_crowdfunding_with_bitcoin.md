@@ -1,2 +1,2 @@
-# Chapter 3: Crowdfunding With Bitcoin
+# Chapter 3: Financing with Bitcoin
 

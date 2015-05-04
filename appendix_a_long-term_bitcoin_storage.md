@@ -24,14 +24,17 @@ If the private keys being backed up are used to create a multisignature account,
 ☐  Practice receiving and sending very small fractions of a bitcoin before trying to store large amounts.  
 ```
 ☐  Generate an unsigned transaction using your hot wallet. 
-☐  Transfer transaction data to an offline computer.  
-☐  Use the bitcoin private keys to sign the transaction.  
-☐  If using a multisignature account, combine the signatures 
-   together properly to produce a valid transaction.
+☐  Transfer unsigned transaction data to each of the computers 
+   that the cold private keys for the multisignature account are 
+   stored on.  
+☐  Sign the transaction using the cold private keys for the
+   multisignature account.  
+☐  Combine the signatures together properly to produce a valid 
+   transaction.
 	☐  Transfer the signed transaction to an online machine and 
 	   broadcast it to the bitcoin network.
      * If bitcoin are sent from the address, success! If not, 
-     re-trace steps and try again.```
+       re-trace steps and try again.```
 
 [^34] https://bitcoinpaperwallet.com/ubuntu-linux-live-bootable-cd/  
 [^35] http://www.contravex.com/2014/03/14/on-making-high-entropy-bitcoin-paper-wallets/  

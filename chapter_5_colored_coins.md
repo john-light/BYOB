@@ -21,13 +21,14 @@ Coinprism
 Coinprism is a company that offers free web, desktop, and mobile wallets that are used for managing Open Assets colored coins. The desktop wallet is called Colorcore and is currently a command-line tool.[^33] The web and mobile wallets are Coinprism branded and offer an attractive user interface that makes is easy to manage Open Assets colored coins. This guide will show you how to issue and receive colored coins using the Coinprism web wallet.  
 The first thing you will need to do is go to coinprism.com and create a wallet.   
  
+![Coinprism wallet](coloredcoins1.png "Creating a Coinprism wallet.")  
+<i>Creating a Coinprism wallet.  
+ 
+The wallet will be created and encrypted client-side, so as long as you are connecting to the website securely and the website is not serving you malicious code, your wallet will be as secure as a desktop wallet. Do not lose your username or password, or you permanently lose access to your wallet.  
 
+To issue a colored coin asset, navigate to the “Addresses & Colors” tab and click “New color.” You will then be shown this form:  
  
-The wallet will be created and encrypted client-side, so as long as you are connecting to the website securely and the website is not serving you malicious code, your wallet will be as secure as a desktop wallet. Do not lose your username or password, or you permanently lose access to your wallet. 
- 
-To issue a colored coin asset, navigate to the “Addresses & Colors” tab and click “New color.” You will then be shown this form: 
- 
- 
+
  
 Give the new “color” a name e.g. Gold Bar 1oz, choose what kind of address you're issuing it from (pick “Regular address” if you're not sure), then encrypt your new issuing address with a new password. You will then be shown this form: 
  

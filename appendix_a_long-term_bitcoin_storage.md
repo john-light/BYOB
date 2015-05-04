@@ -1,6 +1,6 @@
 # Appendix A: Long-Term Bitcoin Storage
 
-##Checklist for long-term bitcoin storage
+##Checklist
 
 ☐  Generate bitcoin private keys on an offline computer.
  * Use a computer that will never again be attached to the Internet, or

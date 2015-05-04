@@ -33,8 +33,8 @@ If the private keys being backed up are used to create a multisignature account,
    transaction.
 	☐  Transfer the signed transaction to an online machine and 
 	   broadcast it to the bitcoin network.
-     * If bitcoin are sent from the address, success! If not, 
-       re-trace steps and try again.```
+       * If bitcoin are sent from the address, success! If not, 
+         re-trace steps and try again.```
 
 [^34] https://bitcoinpaperwallet.com/ubuntu-linux-live-bootable-cd/  
 [^35] http://www.contravex.com/2014/03/14/on-making-high-entropy-bitcoin-paper-wallets/  

@@ -50,7 +50,7 @@ You will then need to fund the newly created colored coin address to issue a new
  
 Enter the amount of coins you wish to issue for your asset e.g. if your asset it ounces of gold, enter how many ounces of gold the asset is backed by. Then click “Issue coins.” The software will ask you to enter the password for your colored coins address; enter your password then press “Submit.” Your newly issued colored coins will then be available in your Coinprism wallet.  
 
- 
+ ![](coloredcoins6.png)
 <i>Colored coin asset balance.  
  
 To receive bitcoin or assets with the Coinprism wallet, first navigate to the “Addresses & Colors” tab. You will be presented with a drop-down menu next to a QR code representing either a bitcoin address or  Open Asset ID. The “receive assets” account is used to receive Open Assets, and the “receive bitcoins” account is used to receive bitcoin. Copy the address for either option depending on which you are trying to receive and give it to the sender. You can also scan the QR code to send bitcoin or colored coins to your address from a mobile device.   

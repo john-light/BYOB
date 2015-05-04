@@ -29,12 +29,12 @@ The wallet will be created and encrypted client-side, so as long as you are conn
 
 To issue a colored coin asset, navigate to the “Addresses & Colors” tab and click “New color.” You will then be shown this form:  
  
-
+![color an address](coloredcoins2.png "Coloring an address.")
 <i>Coloring an address.  
  
 Give the new “color” a name e.g. Gold Bar 1oz, choose what kind of address you're issuing it from (pick “Regular address” if you're not sure), then encrypt your new issuing address with a new password. You will then be shown this form: 
  
-
+![create colored coin](coloredcoins3.png "Creating a colored coin.")
 <i>Creating a colored coin.  
  
 Here you will enter a short name or ticker symbol e.g. XAU, the Issuer Name (you can make one up or use the real name of the issuer – this will become public data on Coinprism's website), add images for the asset (such as a logo or a picture of the asset the colored coin represents), write a description about the asset (such as a contract detailing how the coin can be redeemed for the backing asset), choose how/ whether or not the asset can be divisible, and choose a class for the asset e.g. currency, stock, bond, commodity, etc. After you have completed this form, click “save.” If your transaction is successful, you will receive a notification indicating that your new asset will be available for management in your wallet within about 15 minutes.  

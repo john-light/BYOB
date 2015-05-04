@@ -41,7 +41,7 @@ Here you will enter a short name or ticker symbol e.g. XAU, the Issuer Name (you
 
 After the transaction has been confirmed by the bitcoin network, you will be able to choose it from the menu of addresses:  
 
-
+![address menu](coloredcoins4.png "Coinprism address menu.")
 <i>Coinprism address menu.  
 
 You will then need to fund the newly created colored coin address to issue a new asset by sending bitcoin to the address. Do this by clicking “fund address” or by sending bitcoin directly to the bitcoin address/ QR code directly below the address selection menu. After the address has been funded, click “Issue coins.” You will then be presented with this form:  

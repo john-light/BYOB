@@ -28,8 +28,6 @@ To create a cold multisignature account, you need to know the public keys – no
 * Bitcoin Armory[^15]  
 * CoinVault/mSIGNA[^16]  
 
-<i>A guide for creating and spending from a cold multisignature account using the Bitcoin Armory wallet can be found in Appendix C.  
-
 <b>Creating Wallet Backups</b>  
 Life happens, and when life takes a turn for the worst, it's always good to have backups of vital data such as medical records, tax documents, sentimental photographs, and now, bitcoin wallets. All bitcoin wallet software provides a relatively easy way to backup your bitcoin wallet data, including the private keys needed to spend your bitcoin. Be careful when backing up this sensitive data – if anyone gains access to the files that contain the private keys needed to make transactions with your bitcoin accounts, they will be able to access your transaction data and take control of your bitcoin. To guard against this, use multisignature accounts and store a backup of each key needed to sign transactions in a separate location e.g. one in a fireproof safe, another in a safety deposit box, another with a family member, etc, and using multiple kinds of storage media e.g. paper wallet backup, USB backup, and CD-R backup.  
 

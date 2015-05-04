@@ -33,16 +33,15 @@ To issue a colored coin asset, navigate to the “Addresses & Colors” tab and 
  
 Give the new “color” a name e.g. Gold Bar 1oz, choose what kind of address you're issuing it from (pick “Regular address” if you're not sure), then encrypt your new issuing address with a new password. You will then be shown this form: 
  
-
+![](coloredcoins3.png "Creating a colored coin.")  
+<i>Creating a colored coin.  
  
 Here you will enter a short name or ticker symbol e.g. XAU, the Issuer Name (you can make one up or use the real name of the issuer – this will become public data on Coinprism's website), add images for the asset (such as a logo or a picture of the asset the colored coin represents), write a description about the asset (such as a contract detailing how the coin can be redeemed for the backing asset), choose how/ whether or not the asset can be divisible, and choose a class for the asset e.g. currency, stock, bond, commodity, etc. After you have completed this form, click “save.” If your transaction is successful, you will receive a notification indicating that your new asset will be available for management in your wallet within about 15 minutes.  
- 
- 
- 
-After the transaction has been confirmed by the bitcoin network, you will be able to choose it from the menu of addresses: 
- 
- 
- 
+
+After the transaction has been confirmed by the bitcoin network, you will be able to choose it from the menu of addresses:  
+
+
+
 You will then need to fund the newly created colored coin address to issue a new asset by sending bitcoin to the address. Do this by clicking “fund address” or by sending bitcoin directly to the bitcoin address/ QR code directly below the address selection menu. After the address has been funded, click “Issue coins.” You will then be presented with this form: 
  
  

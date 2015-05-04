@@ -23,7 +23,7 @@ If the private keys being backed up are used to create a multisignature account,
 
 ☐  Practice receiving and sending very small fractions of a bitcoin before trying to store large amounts.  
 ```
-☐  Generate a transaction to be signed using your hot wallet.  
+☐  Generate an unsigned transaction using your hot wallet.  
 ☐  Transfer transaction data to an offline computer.  
 ☐  Use the bitcoin private keys to sign the transaction.  
 ☐  If using a multisignature account, combine the signatures 

@@ -6,9 +6,10 @@ Two valuable services that banks provide in addition to storing their customers 
 ##Lighthouse  
 In July 2014, it was announced that Bitcoin developer Mike Hearn won part of a $100,000 bounty offered by entrepreneur and investor Olivier Janssens to create an app that would “replace the Bitcoin Foundation.”[^24] This app is called “Lighthouse” and it enables people to crowdfinance projects by creating a transaction that is only released to the receiving address after the balance has reached a certain threshold.[^25] The transaction details are shared with potential funders of the transaction, who then send bitcoin to the receiving address. After the receiving address reaches the threshold balance, the transaction completes and the recipient receives the pledged bitcoin. This replicates the functionality of a traditional crowdfinance platform without the need for a third party to hold the funds in escrow until all pledges are collected.  
 
-To raise bitcoin for a project using Lighthouse, download the program from vinumeris.com/lighthouse, run the program, and wait for the client to sync with the bitcoin network. After the client is fully synced, click “Create Project.” You will then be presented with this form:
+To raise bitcoin for a project using Lighthouse, download the program from vinumeris.com/lighthouse, run the program, and wait for the client to sync with the bitcoin network. After the client is fully synced, click “Create Project.” You will then be presented with this form:  
 
-
+![create lighthouse project](createlighthouse.png "Creating a project with Lighthouse.")
+<i>Creating a project with Lighthouse.  
 
 After filling out the form, click “Next.” You will then be presented with these options:
  
@@ -16,8 +17,6 @@ After filling out the form, click “Next.” You will then be presented with th
 <i>Hosted vs Decentralized Crowdfinancing.  
 
 You can choose to either host your Lighthouse project on a centralized server, which makes it easier for people to find and interact with, or you can choose to go fully decentralized, where you distribute the project file to potential supporters yourself, collecting and importing returned pledge files manually.
-
-
 
 After potential supporters have imported the project file, they will be shown a screen like this:
 

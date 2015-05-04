@@ -1,2 +1,2 @@
-# Chapter 4: Notarizing Digital Files With Bitcoin
+# Chapter 4: Notarizing Digital Files with Bitcoin
 

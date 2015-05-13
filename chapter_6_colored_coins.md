@@ -3,7 +3,7 @@
 ##Background   
 After a bank makes a loan or investment, they have the ability to package these assets into securities, which are then sold to private businesses or the general public as an investment. Securities are fungible financial instruments which represent a share of ownership in a corporation (equity/ stock), a credit agreement with another entity (loan/ bond), or ownership rights as represented by an option (derivative). The bitcoin protocol offers users the ability to issue their own fungible assets which are cryptographically secured by the blockchain but represent assets outside of the blockchain: a loan made to an individual or business, equity or revenue share in a company, a redeemable coupon for a product or service, a representation of work put into a project, and more. Anything that can be defined can be issued as an asset on the bitcoin blockchain and traded between accounts.   
  
-Assets issued on the bitcoin blockchain are known as “crypto-assets” or, more commonly, “colored coins.”[^28] There are multiple technical specifications for issuing colored coins on the bitcoin blockchain, including Assembly Coins, Counterparty, Omni (formerly “Mastercoin”), and Open Assets.[^29] [^30] [^31] [^32] The focus in this chapter will be on the Open Assets protocol.  
+Assets issued on the bitcoin blockchain are known as “crypto-assets” or, more commonly, “colored coins.”[^33] There are multiple technical specifications for issuing colored coins on the bitcoin blockchain, including Assembly Coins, Counterparty, Omni (formerly “Mastercoin”), and Open Assets.[^34] [^35] [^36] [^37] The focus in this chapter will be on the Open Assets protocol.  
  
 <i>Note: In all of the examples in this book so far, we have assumed that the majority of miners are not malicious because the activities described in the examples are compatible with the incentives of bitcoin mining; issuing colored coins is different in that it can jeopardize the security of the blockchain by changing the incentives for miners. For example, if the total value of assets being transferred in a block is $100 billion but the market cap of the bitcoin cryptocurrency is only $10 billion, there are at least $90 billion worth of assets at risk of a 51% attack since the incentive to attack the blockchain would no longer be tied to the price of bitcoin.</i>   
  
@@ -17,7 +17,7 @@ ALn3aK1fSuG27N96UGYB1kUYUpGKRhBuBC```
 These colored coins can be given a name in your Open Assets wallet so that they are easily distinguishable, for example “1oz XAU” or “1 share XXXX.” These names will remain private unless you share them outside of your Open Assets wallet.   
  
 <b>Coinprism</b>   
-Coinprism is a company that offers free web, desktop, and mobile wallets that are used for managing Open Assets colored coins. The desktop wallet is called Colorcore and is currently a command-line tool.[^33] The web and mobile wallets are Coinprism branded and offer an attractive user interface that makes is easy to manage Open Assets colored coins. This guide will show you how to issue and receive colored coins using the Coinprism web wallet.  
+Coinprism is a company that offers free web, desktop, and mobile wallets that are used for managing Open Assets colored coins. The desktop wallet is called Colorcore and is currently a command-line tool.[^38] The web and mobile wallets are Coinprism branded and offer an attractive user interface that makes is easy to manage Open Assets colored coins. This guide will show you how to issue and receive colored coins using the Coinprism web wallet.  
 
 The first thing you will need to do is go to coinprism.com and create a wallet.  
  
@@ -60,9 +60,9 @@ To receive bitcoin or assets with the Coinprism wallet, first navigate to the �
 
 With colored coin technology, you can now use bitcoin to replace banks as issuers of various financial assets.  
  
-[^28] http://www.coloredcoins.org/   
-[^29] https://coins.assembly.com/   
-[^30] http://www.counterparty.io/   
-[^31] http://www.omni.foundation/   
-[^32] http://www.openassets.org   
-[^33] https://github.com/OpenAssets/colorcore   
+[^33] http://www.coloredcoins.org/   
+[^34] https://coins.assembly.com/   
+[^35] http://www.counterparty.io/   
+[^36] http://www.omni.foundation/   
+[^37] http://www.openassets.org   
+[^38] https://github.com/OpenAssets/colorcore   

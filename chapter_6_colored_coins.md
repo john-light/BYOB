@@ -58,7 +58,7 @@ To receive bitcoin or assets with the Coinprism wallet, first navigate to the â€
 ![managing colored coins](coloredcoins7.png "Managing colored coins with Coinprism.")  
 <i>Managing colored coins with Coinprism.  
 
-With colored coin technology, you can now use bitcoin to replace banks as issuers of various financial assets.  
+With colored coin technology, you can use bitcoin to replace banks as issuers of various financial assets.  
  
 [^33] http://www.coloredcoins.org/   
 [^34] https://coins.assembly.com/   

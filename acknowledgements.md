@@ -2,9 +2,9 @@
 
 I would like to thank the following people for directly or indirectly contributing to the completion of <i>Bitcoin: Be Your Own Bank:
 
-My mother and father, who both not only made it existentially possible for me to write this book, but also financially supported its publication;  
+My mother and father, who both not only made it existentially possible for me to write this book but also financially supported its publication;  
 
-My grandparents, who also both made it existentially possible for me to write this book, and financially supported its publication;  
+My grandparents, who also both made it existentially possible for me to write this book and financially supported its publication;  
 
 All other contributors to the *BYOB* crowdfunding campaign, for financially and morally supporting the publication of this book;  
 

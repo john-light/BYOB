@@ -31,8 +31,8 @@ If the private keys being backed up are used to create a multisignature account,
    multisignature account.  
 ☐  Combine the signatures together properly to produce a valid 
    transaction.
-   ☐  Transfer the signed transaction to an online machine and 
-	  broadcast it to the bitcoin network.
+☐  Transfer the signed transaction to an online machine and 
+   broadcast it to the bitcoin network.
    * If bitcoin are sent from the address, success! If not, 
      re-trace steps and try again.```
 

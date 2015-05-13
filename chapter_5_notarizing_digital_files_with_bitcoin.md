@@ -35,7 +35,7 @@ To embed a file into the bitcoin blockchain using Proof of Existence, first drag
 
 <i>Embedding a file hash in the blockchain.</i>  
 
-After the block the transaction is included in is confirmed, you will forever have proof that at the time that the block with your file hash embedded in it was added to the bitcoin blockchain, the file that was used to produce the hash existed.[^33] With a cryptographic hashing algorithm and the bitcoin blockchain, you can replicate one of the important functions of a notary public: certifying that at a certain time, a certain document existed or agreement was made.  
+After the block the transaction is included in is confirmed, you will forever have proof that at the time that the block with your file hash embedded in it was added to the bitcoin blockchain, the file that was used to produce the hash existed.[^33] With a cryptographic hashing algorithm and the bitcoin blockchain, you can replicate one of the important functions of a notary public: certifying that at a certain time, a certain document existed.  
 
 [^31] Notary. (2015, February 10). Retrieved February 27, 2015, from https://en.wikipedia.org/wiki/Notary  
 [^32] http://proofofexistence.com/  

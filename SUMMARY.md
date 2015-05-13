@@ -11,4 +11,5 @@
 * [Chapter 5: Notarizing Digital Files with Bitcoin](chapter_5_notarizing_digital_files_with_bitcoin.md)
 * [Chapter 6: Colored Coins](chapter_6_colored_coins.md)
 * [Appendix A: Long-Term Bitcoin Storage](appendix_a_long-term_bitcoin_storage.md)
+* Chapter 1: The Blockchain
 

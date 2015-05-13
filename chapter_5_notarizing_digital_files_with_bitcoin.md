@@ -1,4 +1,4 @@
-# Chapter 4: Notarizing Digital Files with Bitcoin
+# Chapter 5: Notarizing Digital Files with Bitcoin
 
 ##Background
 All of the uses of bitcoin discussed in this book have so far had to do with using bitcoin to replace the functions of a bank that directly deal with managing money:  

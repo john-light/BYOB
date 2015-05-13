@@ -1,4 +1,4 @@
-# Chapter 5: Colored Coins
+# Chapter 6: Colored Coins
 
 ##Background   
 After a bank makes a loan or investment, they have the ability to package these assets into securities, which are then sold to private businesses or the general public as an investment. Securities are fungible financial instruments which represent a share of ownership in a corporation (equity/ stock), a credit agreement with another entity (loan/ bond), or ownership rights as represented by an option (derivative). The bitcoin protocol offers users the ability to issue their own fungible assets which are cryptographically secured by the blockchain but represent assets outside of the blockchain: a loan made to an individual or business, equity or revenue share in a company, a redeemable coupon for a product or service, a representation of work put into a project, and more. Anything that can be defined can be issued as an asset on the bitcoin blockchain and traded between accounts.   

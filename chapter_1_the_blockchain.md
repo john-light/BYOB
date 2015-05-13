@@ -19,4 +19,15 @@ If your router has Universal Plug and Play capabilities, or you manually open po
 ## Bitseed  
 The process of running a full node takes up a lot of a computer's resources, including processing power and storage space, making it impractical to run on a laptop or even some desktop computers. To make running a full node more convenient for people who want to support the bitcoin network but would prefer to save their personal computer's resources for other purposes e.g. web browsing, document editing, media storage, etc, a company called Bitseed has created a “plug and play” bitcoin full node device which simply needs to be plugged into power and an Internet-connected router before it begins downloading a local copy of the bitcoin blockchain.[^9]  
 
+![Bitseed](bitseedbox.png "Bitseed bitcoin full node.")  
+<i>Bitseed bitcoin full node.</i>  
 
+As with running Bitcoin Core on your personal computer, to ensure that your Bitseed full node is supporting the bitcoin network and not simply downloading new blocks, you either need to have a router that supports Universal Plug and Play or you need to manually open port 8333.  
+
+Once you have downloaded a full copy of the bitcoin blockchain, you have taken your first step towards using bitcoin to be your own bank.
+
+[^5] https://bitcoin.org/en/developer-guide#block-chain  
+[^6] https://bitcoin.org/en/download  
+[^7] https://bitcoin.org/en/full-node  
+[^8] Instructions for opening a port vary depending on routers, so you will need to consult your router's manual or contact your ISP for instructions for opening port 8333.  
+[^9] https://bitseed.org/shop/ Full disclosure: I am a co-founder of Bitseed.  

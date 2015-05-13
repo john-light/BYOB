@@ -4,9 +4,9 @@ I would like to thank the following people for directly or indirectly contributi
 
 My mother and father, who both not only made it existentially possible for me to write this book, but also financially supported its publication;  
 
-My grandparents, who both also made it existentially possible for me to write this book, and financially supported its publication;  
+My grandparents, who also both made it existentially possible for me to write this book, and financially supported its publication;  
 
-All other contributors to the Indiegogo crowdfunding campaign, for financially and morally supporting the publication of this book;  
+All other contributors to the *BYOB* crowdfunding campaign, for financially and morally supporting the publication of this book;  
 
 All of the developers, designers, and testers of the software mentioned in this book;  
 

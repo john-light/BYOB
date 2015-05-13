@@ -33,7 +33,7 @@ Life happens, and when life takes a turn for the worst, it's always good to have
 
 ![cold wallet backups](coinbasecoldsecurity.jpg "Paper and USB wallet backups.")
 
-<i>Paper and USB wallet backups.[^17]  
+<i>Paper and USB wallet backups.</i>[^17]  
 
 <i>Use the checklist in Appendix A to make sure you have taken the proper steps to securing your private keys before attempting to receive bitcoin for long-term storage using your bitcoin wallet.  
 
@@ -42,23 +42,26 @@ After bitcoin private keys are secured, the corresponding public address can be 
 
 ![receive bitcoin](receive.png "Receiving bitcoin with a sample bitcoin address.")
 
-<i>Receiving bitcoin with a sample bitcoin address.
+<i>Receiving bitcoin with a sample bitcoin address.</i>  
 
-You can verify that the sender has received the correct address by verifying out-of-band using a secure voice connection, using the built-in Payment Protocol, or using a protocol such as Openname, which links complex-looking bitcoin addresses to easily communicable and identifiable names.[^18] [^19]    
+You can verify that the sender has received the correct address by verifying out-of-band using a secure voice connection, using the built-in Payment Protocol, or using a protocol such as the Blockchain Name System, which links complex-looking bitcoin addresses to human-readable names.[^18] [^19]  
 
-![receive bitcoin with onename](onenamereceive.png "Receiving bitcoin with an Openname.")
+![receive bitcoin with onename](onenamereceive.png "Receiving bitcoin with a Passcard.")
 
-<i>Receiving bitcoin with an Openname.  
+<i>Receiving bitcoin with a Passcard.</i>  
 
-Note that once a bitcoin address is linked to an identity, all transactions sent to and from that address can be linked to that identity and fully traceable using the public bitcoin blockchain. One way to preserve financial privacy when receiving bitcoin is to generate a new address for each transaction and never link the address to any static identity. Some wallets will generate new addresses for recipients automatically. There is also software that will generate addresses for senders automatically using “stealth addresses.”[^20] Once a transaction has been sent to your address, it can take ten minutes or more for the transaction to be “confirmed” and included in a block. The more blocks that are added to the blockchain after a transaction has been confirmed, the less likely it will be that the sender can reverse the transaction. For low value transactions, or transactions for which there is an established trust relationship with the sender, one confirmation is enough to consider the transaction finalized. Most bitcoin merchant payment processors will even accept zero confirmation transactions so that a customer does not have to wait for a transaction when they are checking out online or in a store.  
+Note that once a bitcoin address is linked to an identity, all transactions sent to and from that address can be linked to that identity and fully traceable using the public bitcoin blockchain. One way to preserve financial privacy when receiving bitcoin is to generate a new address for each transaction and never link the address to any static identity. Some wallets will generate new addresses for recipients automatically. There is also software that will generate addresses for senders automatically using “stealth addresses.”[^20]  
+
+Once a transaction has been sent to your address, it can take ten minutes or more for the transaction to be “confirmed” and included in a block. The more blocks that are added to the blockchain after a transaction has been confirmed, the less likely it will be that the sender can reverse the transaction. For low value transactions, or transactions for which there is an established trust relationship with the sender, one confirmation is enough to consider the transaction finalized. Most bitcoin merchant payment processors will even accept zero confirmation transactions so that a customer does not have to wait for a transaction when they are checking out online or in a store.  
 
 ##Sending Bitcoin  
-Once you have received bitcoin, you will be able to send bitcoin to another bitcoin address, whether it is another one of your addresses or one that is under someone else's control. Open your bitcoin wallet, navigate to the “send” tab, paste the recipients bitcoin address or scan a QR code containing their bitcoin address, enter in the correct amount to send, double-check that the recipient address is correct, if a miner fee is needed then include a small miner fee (a couple of cents USD worth of BTC will work), then press “send.” Transaction complete![^21]
+Once you have received bitcoin, you will be able to send bitcoin to another bitcoin address, whether it is another one of your addresses or one that is under someone else's control. Open your bitcoin wallet, navigate to the “send” tab, paste the recipients bitcoin address or scan a QR code containing their bitcoin address, enter in the correct amount to send, double-check that the recipient address is correct, if a miner fee is needed then include a small miner fee (a couple of cents USD worth of BTC will work), then press “send.” Transaction complete![^21]  
 
 ![send bitcoin](send.png "Sending bitcoin to a made-up bitcoin address.")
-<i>Sending bitcoin to a made-up bitcoin address.  
+<i>Sending bitcoin to a made-up bitcoin address.</i>  
 
-If your bitcoin wallet supports the Openname protocol, you can just type in the recipient's Openname where you would normally put their bitcoin address, and the bitcoin will be sent to the address the recipient has added to their Openname profile (if they have added one).
+If your bitcoin wallet supports the Blockchain Name System protocol, you can just type in the recipient's passname where you would normally put their bitcoin address, and the bitcoin will be sent to the address the recipient has added to their Passcard (if they have added one).  
+
 It's important to remember that it is very difficult – potentially impossible – for the sender of a bitcoin transaction to reverse a payment, so be sure to double-check that the receiving address and the amount being sent (including the fee) is correct. If the address is incorrect, the bitcoin that is sent to it could be lost forever.  
 
 [^12] Various Authors (2015, January 21). Technical background of version 1 Bitcoin addresses. Retrieved February 13, 2015, from https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses  
@@ -68,6 +71,6 @@ It's important to remember that it is very difficult – potentially impossible 
 [^16] https://github.com/ciphrex/CoinVault  
 [^17] http://blog.coinbase.com/post/33197656699/coinbase-now-storing-87-of-customer-funds-offline  
 [^18] Andresen, G., & Hearn, M. (2013, July 29). BIP 70: Payment Protocol. Retrieved February 26, 2015, from https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki  
-[^19] https://openname.org/  
+[^19] https://github.com/namesystem/namesystem/wiki/FAQ  
 [^20] http://sourceforge.net/p/bitcoin/mailman/message/31813471/  
 [^21] These are the steps for completing a bitcoin transaction with a single key account where the private keys are stored unencrypted on a computer that is hooked up to the Internet i.e. a “hot wallet”. If your wallet it encrypted, you will need to enter the decryption password.  

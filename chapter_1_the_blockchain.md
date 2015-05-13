@@ -9,7 +9,14 @@ The most important and fundamental tool of a bank is a ledger, a written record 
 While the legacy banking system relies on “correspondents” and other intermediaries to move funds between banks when there is no direct connection, bitcoin instead relies on a system of peer-to-peer connections between full nodes to relay transactions to miners, and then relay blocks from miners back to the rest of the bitcoin network. After a block has been accepted as valid by a majority of nodes on the network, it will be added to the blockchain, and miners will then begin building the next block with the latest batch of transactions. New entrants to the bitcoin network will only accept the longest blockchain as valid, making it very difficult for someone to trick new nodes into downloading an inaccurate blockchain. More information on the process of building blocks and adding them to the blockchain is included in Chapter 2.  
 
 ## Bitcoin Core  
-The easiest way to run a full node and maintain your own copy of the blockchain is to download and run Bitcoin Core.1 2 This software will connect to peers in the bitcoin network and begin downloading and verifying blocks from each of them, eventually assembling a full copy of the bitcoin blockchain. As of the time of writing this First Edition, the full bitcoin blockchain is just over 37 gigabytes in size.
+The easiest way to run a full node and maintain your own copy of the blockchain is to download and run Bitcoin Core.[^6] [^7] This software will connect to peers in the bitcoin network and begin downloading and verifying blocks from each of them, eventually assembling a full copy of the bitcoin blockchain. As of the time of writing this First Edition, the full bitcoin blockchain is just over 37 gigabytes in size.
 
+![Bitcoin Core full node](fullnode.png "Bitcoin Core full node.")  
+<i>Bitcoin Core full node.</i>  
+
+If your router has Universal Plug and Play capabilities, or you manually open port 8333, then Bitcoin Core will also accept and validate new transactions and blocks from other full nodes, then relay these transactions and blocks to other full nodes.[^8] This process is what keeps the bitcoin network running, making full nodes essential to the success of bitcoin.
+
+## Bitseed  
+The process of running a full node takes up a lot of a computer's resources, including processing power and storage space, making it impractical to run on a laptop or even some desktop computers. To make running a full node more convenient for people who want to support the bitcoin network but would prefer to save their personal computer's resources for other purposes e.g. web browsing, document editing, media storage, etc, a company called Bitseed has created a “plug and play” bitcoin full node device which simply needs to be plugged into power and an Internet-connected router before it begins downloading a local copy of the bitcoin blockchain.[^9]  
 
 

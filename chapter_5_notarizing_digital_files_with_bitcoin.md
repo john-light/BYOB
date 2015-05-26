@@ -39,7 +39,7 @@ After the block the transaction is included in is confirmed, you will forever ha
 
 [^31] Notary. (2015, February 10). Retrieved February 27, 2015, from https://en.wikipedia.org/wiki/Notary  
 [^32] http://proofofexistence.com/  
-[^33] A double-spend attack could be used to undo your transaction and erase the "proof of existence" from the blockchain. This would be very expensive and is therefore very unlikely, and becomes more unlikely the more blocks are added to the blockchain after your transaction is confirmed.  
+[^33] A double-spend attack could be used to undo your transaction and erase the "proof of existence" from the longest blockchain. This would be very expensive and is therefore very unlikely, and becomes more unlikely the more blocks are added to the blockchain after your transaction is confirmed.  
 
 
 

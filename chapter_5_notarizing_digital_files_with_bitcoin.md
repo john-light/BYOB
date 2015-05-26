@@ -10,10 +10,10 @@ All of the uses of bitcoin discussed in this book have so far had to do with usi
 
 Most banks also offer their customers financial services which are indirectly related to the management of money. One of those services is that of the notary public. The duties of a notary public include, but are not limited to:
 * Identifying the person(s) appearing before them using “significant proofs of evidence,” such as a passport, birth certificate, driver's license, etc.  
-* Comparing signatures on different documents to ensure that they match
-* Taking an affidavit or declaration and recording such statements
-* Taking acknowledgement of execution of a document and preparing a certificate of acknowledgement
-* Sealing or stamping and signing the certificate of acknowledgement[^31]  
+* Comparing signatures on different documents to ensure that they match.
+* Taking an affidavit or declaration and recording such statements.
+* Taking acknowledgement of execution of a document and preparing a certificate of acknowledgement.
+* Sealing or stamping and signing the certificate of acknowledgement.[^31]  
 
 Generally speaking, it is a notary's job to certify that at a certain time, certain people agreed to the existence of a certain document, typically a contract, deed, or other such title of obligation or ownership.  
 

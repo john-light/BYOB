@@ -19,8 +19,6 @@ Since the rise in the price of bitcoin to over $1000 per BTC in November 2013, t
 
 Bitcoin miners form the backbone of the bitcoin network and are integral to both the security of the blockchain and the value of bitcoin. As the hashing power securing the bitcoin blockchain increases, so too does the amount of value which can be stored in bitcoin. The bitcoin protocol, the blockchain, and the decentralized network of bitcoin miners work together to replace the banks and other centralized “trusted third-parties” which issue currency and process and secure electronic financial transactions in the legacy financial system.[^16]  
 
-##How to Mine  
-The “how-to” for bitcoin mining varies based on your choice of operating system and mining hardware. Because of the wide variety of configurations that are available, you should consult any instructions included with your mining hardware or search online to find instructions specific to your setup.
 
 [^10] Nichols, D. (1961, May 1). Modern Money Mechanics, p. 11, Retrieved February 12, 2015, from https://archive.org/details/ModernMoneyMechanics  
 [^11] Economic majority. (2014, June 4). Retrieved February 26, 2015, from https://en.bitcoin.it/wiki/Economic_majority   

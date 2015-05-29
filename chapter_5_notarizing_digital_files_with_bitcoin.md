@@ -29,7 +29,7 @@ A service called “Proof of Existence,” one of the first of its kind, was cre
 
 <i>Hashing a draft of BYOB using Proof of Existence.</i>  
 
-To embed a file into the bitcoin blockchain using Proof of Existence, first drag and drop a file that you want to prove exists at a certain time, for example a signed contract, into the big box on the website home page. The document will be hashed client-side (not uploaded to the server), and you will then be presented with a bitcoin address which you need to pay a small amount of bitcoin (typically a few cents USD worth) to have the hash of the file permanently embedded in the bitcoin blockchain.  
+To embed a file into the bitcoin blockchain using Proof of Existence, first drag and drop a file that you want to prove exists at a certain time, for example a signed contract or creative work, into the big box on the website home page. The document will be hashed client-side (not uploaded to the server), and you will then be presented with a bitcoin address which you need to pay a small amount of bitcoin (typically a few cents USD worth) to have the hash of the file permanently embedded in the bitcoin blockchain.  
 
 ![embedding hashes](proofofexistence2.png "Embedding a file hash in the blockchain.")  
 

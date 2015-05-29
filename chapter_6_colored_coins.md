@@ -43,7 +43,7 @@ After the transaction has been confirmed by the bitcoin network, you will be abl
 ![address menu](coloredcoins4.png "Coinprism address menu.")  
 <i>Coinprism address menu.  
 
-You will then need to fund the newly created colored coin address to issue a new asset by sending bitcoin to the address. Do this by clicking “fund address” or by sending bitcoin directly to the bitcoin address/ QR code directly below the address selection menu. After the address has been funded, click “Issue coins.” You will then be presented with this form:  
+To issue a new asset, you will then need to fund the newly created colored coin address by sending bitcoin to the address. Do this by clicking “fund address” or by sending bitcoin directly to the bitcoin address/ QR code directly below the address selection menu. After the address has been funded, click “Issue coins.” You will then be presented with this form:  
 
  ![issuance form](coloredcoins5.png "Form to issue colored coins.")  
 <i>Form to issue colored coins.  

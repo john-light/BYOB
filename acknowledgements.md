@@ -8,7 +8,7 @@ My grandparents, who also both made it existentially possible for me to write th
 
 All other contributors to the *BYOB* crowdfunding campaign, for financially and morally supporting the publication of this book;  
 
-All of the developers, designers, and testers of the software mentioned in this book;  
+All of the developers, designers, and testers of the software mentioned in this book, for helping to provide the tools that make bitcoin accessible;  
 
 Andreas M. Antonopolous, whose enthusiasm for bitcoin has been infectious and whose guidance and support early on in my career in the bitcoin industry gave me the confidence to write this book;  
 

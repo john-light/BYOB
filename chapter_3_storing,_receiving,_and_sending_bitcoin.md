@@ -1,6 +1,6 @@
 # Chapter 2: Storing, Receiving, and Sending Bitcoin
 
-##Background  
+## Background  
 Just as banks enable the sending and receiving of money from one bank account to another, so too does bitcoin enable the sending and receiving of money from one account to another. Bitcoin transactions are, in their simplest form, irreversible, so it's very important to make sure that bitcoin is sent to the correct address of the intended recipient. Bitcoin makes use of elliptic-curve cryptography to secure accounts.[^17] A bitcoin account is made up of two parts:  
 * a public address  
 * a private key  
@@ -9,11 +9,11 @@ The public address is derived from a hash of the public key which corresponds to
 
 ![public address](publicaddress.png "How a bitcoin address is created.")  
 
-<i>How a bitcoin address is created.[^18] 
+<i>How a bitcoin address is created.</i>[^18]
 
 The private key is the computer file that is required to spend bitcoin. This file must be secured against unauthorized access to prevent bitcoin from being stolen.  
 
-##Securing Private Keys
+## Securing Private Keys
 <b>Encryption (Good) </b>   
 The most simple way of securing private keys is by encrypting them. Most bitcoin wallets offer this feature, which allows you to set a password that you must enter each time you try to send bitcoin to another address. This is a good way to secure your “hot wallet.” Note that encryption alone does not protect your private keys against malware known as “keyloggers,” which can track your keystrokes when you type in your encryption password and send your password back to the hacker. The hacker can then use malware to steal your encrypted wallet file and use the keylogged password to decrypt the file and send your bitcoin to the hacker's own address. If you choose to encrypt your private keys, be sure to write your password down and store it in a safe place. Put a plan in place to leave the encryption password or unencrypted private keys with a trusted friend or family member in case anything happens to you. If your password is forgotten or lost, your bitcoin may be lost forever.  
 
@@ -37,7 +37,7 @@ Life happens, and when life takes a turn for the worst, it's always good to have
 
 <i>Use the checklist in Appendix A to make sure you have taken the proper steps to securing your private keys before attempting to receive bitcoin for long-term storage using your bitcoin wallet.  
 
-##Receiving Bitcoin  
+## Receiving Bitcoin  
 After bitcoin private keys are secured, the corresponding public address can be used to reliably receive bitcoin. To receive bitcoin directly to an address, open a bitcoin wallet, navigate to the “receive” tab, copy one of the addresses listed, and send the address to whoever or whatever is sending you bitcoin.  
 
 ![receive bitcoin](receive.png "Receiving bitcoin with a sample bitcoin address.")
@@ -54,7 +54,7 @@ Note that once a bitcoin address is linked to an identity, all transactions sent
 
 Once a transaction has been sent to your address, it can take ten minutes or more for the transaction to be “confirmed” and included in a block. The more blocks that are added to the blockchain after a transaction has been confirmed, the less likely it will be that the sender can reverse the transaction. For low value transactions, or transactions for which there is an established trust relationship with the sender, one confirmation is enough to consider the transaction finalized. Most bitcoin merchant payment processors will even accept zero confirmation transactions so that a customer does not have to wait for a transaction when they are checking out online or in a store.  
 
-##Sending Bitcoin  
+## Sending Bitcoin  
 Once you have received bitcoin, you will be able to send bitcoin to another bitcoin address, whether it is another one of your addresses or one that is under someone else's control. Open your bitcoin wallet, navigate to the “send” tab, paste the recipients bitcoin address or scan a QR code containing their bitcoin address, enter in the correct amount to send, double-check that the recipient address is correct, if a miner fee is needed then include a small miner fee (a couple of cents USD worth of BTC will work), then press “send.” Transaction complete! [^26]  
 
 ![send bitcoin](send.png "Sending bitcoin to a made-up bitcoin address.")

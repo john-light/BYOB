@@ -35,7 +35,7 @@ Life happens, and when life takes a turn for the worst, it's always good to have
 
 <i>Paper and USB wallet backups.</i>[^22]  
 
-<i>Use the checklist in Appendix A to make sure you have taken the proper steps to securing your private keys before attempting to receive bitcoin for long-term storage using your bitcoin wallet.  
+<i>Use the checklist in Appendix A to make sure you have taken the proper steps to securing your private keys before attempting to receive bitcoin for long-term storage using your bitcoin wallet.</i>  
 
 ## Receiving Bitcoin  
 After bitcoin private keys are secured, the corresponding public address can be used to reliably receive bitcoin. To receive bitcoin directly to an address, open a bitcoin wallet, navigate to the “receive” tab, copy one of the addresses listed, and send the address to whoever or whatever is sending you bitcoin.  

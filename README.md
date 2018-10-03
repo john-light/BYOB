@@ -1,12 +1,12 @@
 # Bitcoin: Be Your Own Bank
 
 A short ebook which teaches people how to use bitcoin to take control of their money and effectively be their own bank. Included are instructions for:
-- Managing the bitcoin ledger
-- Storing bitcoin private keys
-- Sending and receiving bitcoin transactions
-- Crowdfinance with bitcoin
-- Using bitcoin to timestamp documents
-- Issuing assets with bitcoin
+- Managing the bitcoin ledger ([Chapter 1](chapter_1_the_blockchain.md) and [Chapter 2](chapter_2_mining_bitcoin.md))
+- Storing bitcoin private keys ([Chapter 3](chapter_3_storing%2C_receiving%2C_and_sending_bitcoin.md#securing-private-keys))
+- Sending and receiving bitcoin transactions ([Chapter 3](chapter_3_storing%2C_receiving%2C_and_sending_bitcoin.md#receiving-bitcoin))
+- Crowdfinance with bitcoin ([Chapter 4](chapter_4_financing_with_bitcoin.md))
+- Using bitcoin to timestamp documents ([Chapter 5](chapter_5_notarizing_digital_files_with_bitcoin.md))
+- Issuing assets with bitcoin ([Chapter 6](chapter_6_colored_coins.md))
 
 #Source 
 

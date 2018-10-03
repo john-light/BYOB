@@ -44,11 +44,11 @@ After bitcoin private keys are secured, the corresponding public address can be 
 
 <i>Receiving bitcoin with a sample bitcoin address.</i>  
 
-You can verify that the sender has received the correct address by verifying out-of-band using a secure voice connection, using the built-in Payment Protocol, or using a protocol such as the Blockchain Name System, which links complex-looking bitcoin addresses to human-readable names.[^23] [^24]  
+You can verify that the sender has received the correct address by verifying out-of-band using a secure voice connection, using the built-in Payment Protocol, or using a protocol such as the Blockchain Name System, which links complex-looking bitcoin addresses to a human-readable name called a "blockchain ID".[^23] [^24]  
 
-![receive bitcoin with onename](onenamereceive.png "Receiving bitcoin with a Passcard.")
+![receive bitcoin with onename](onenamereceive.png "Receiving bitcoin with the Blockchain Name System.")
 
-<i>Receiving bitcoin with a Passcard.</i>  
+<i>Receiving bitcoin with a blockchain ID.</i>  
 
 Note that once a bitcoin address is linked to an identity, all transactions sent to and from that address can be linked to that identity and fully traceable using the public bitcoin blockchain. One way to preserve financial privacy when receiving bitcoin is to generate a new address for each transaction and never link the address to any static identity. Some wallets will generate new addresses for recipients automatically. There is also software that will generate addresses for senders automatically using “stealth addresses.”[^25]  
 
@@ -60,7 +60,7 @@ Once you have received bitcoin, you will be able to send bitcoin to another bitc
 ![send bitcoin](send.png "Sending bitcoin to a made-up bitcoin address.")
 <i>Sending bitcoin to a made-up bitcoin address.</i>  
 
-If your bitcoin wallet supports the Blockchain Name System protocol, you can just type in the recipient's passname where you would normally put their bitcoin address, and the bitcoin will be sent to the address the recipient has added to their Passcard (if they have added one).  
+If your bitcoin wallet supports the Blockchain Name System protocol, you can just type in the recipient's blockchain ID where you would normally put their bitcoin address, and the bitcoin will be sent to the address of the recipient.  
 
 It's important to remember that it is very difficult – potentially impossible – for the sender of a bitcoin transaction to reverse a payment, so be sure to double-check that the receiving address and the amount being sent (including the fee) is correct. If the address is incorrect, the bitcoin that is sent to it could be lost forever.  
 

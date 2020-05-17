@@ -19,7 +19,7 @@ ALn3aK1fSuG27N96UGYB1kUYUpGKRhBuBC
 These colored coins can be given a name in your Open Assets wallet so that they are easily distinguishable, for example “1oz XAU” or “1 share XXXX.” These names will remain private unless you share them outside of your Open Assets wallet.
 
 **Coinprism**  
-Coinprism is a company that offers free web, desktop, and mobile wallets that are used for managing Open Assets colored coins. The desktop wallet is called Colorcore and is currently a command-line tool. The web and mobile wallets are Coinprism branded and offer an attractive user interface that makes is easy to manage Open Assets colored coins. This guide will show you how to issue and receive colored coins using the Coinprism web wallet.
+Coinprism is a company that offers free web, desktop, and mobile wallets that are used for managing Open Assets colored coins. The desktop wallet is called Colorcore and is currently a command-line tool. The web and mobile wallets are Coinprism branded and offer an attractive user interface that makes it easy to manage Open Assets colored coins. This guide will show you how to issue and receive colored coins using the Coinprism web wallet.
 
 The first thing you will need to do is go to coinprism.com and create a wallet.
 
